@@ -1,0 +1,10 @@
+
+//XML Code
+<projId>13</projId>
+<moduleName>MB</moduleName>
+<costofDesign>143.11</costofDesign>
+
+//XSD Code
+<xs:element name="projId" type="xs:int"/>
+<xs:element name="moduleName" type="xs:String"/>
+<xs:element name="costofDesign" type="xs:double"/>
